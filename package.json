@@ -18,5 +18,8 @@
   "homepage": "https://github.com/idosun/sentry-filter-test#readme",
   "devDependencies": {
     "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "@sentry/browser": "^5.4.3"
   }
 }
