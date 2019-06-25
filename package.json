@@ -1,0 +1,22 @@
+{
+  "name": "sentry-filter-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idosun/sentry-filter-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idosun/sentry-filter-test/issues"
+  },
+  "homepage": "https://github.com/idosun/sentry-filter-test#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
